@@ -88,14 +88,14 @@ var Player = function($container) {
 
 		// Exibe contagem regressiva
 		var time = 3;
-		var contagemRegressiva = $("<div>" + time + "</div>")
+		var contagemRegressiva = $("<div></div>")
 			.addClass("contagem-regressiva")
 			.css("width", perguntaSize)
 			.css("height", perguntaSize)
 			.css("left", x)
 			.css("top", y);
-		gameContainer.append(contagemRegressiva);
-
+		gameContainer.append(contagemRegressiva); 
+		
 		var interval = setInterval(function() {
 			time--;
 			contagemRegressiva.text(time);
@@ -162,7 +162,7 @@ var Player = function($container) {
 				self.addMovementToCanvas(canvasResposta[0]);
 			}
 
-		}, 2000);
+		}, 0);
 
 	};
 
@@ -237,7 +237,7 @@ var Player = function($container) {
 		}
 
 		gameContainer.empty();
-		gameContainer.append(resultadoContainer);
+		//gameContainer.append(resultadoContainer);
 
 		questaoAtual++;
 		setTimeout(function() {

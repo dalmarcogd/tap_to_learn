@@ -1,5 +1,5 @@
 body {
-	background: url('./img/background.jpg');
+	background: #084B8A;/*url('./img/background.jpg');*/
 	overflow: hidden;
 	user-select: none;
 	-webkit-user-select: none;
@@ -18,12 +18,12 @@ canvas {
 .canvas-pergunta {
 	border: 2px solid black;
 	background-color: white;
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 	border-radius: 10px;
 }
 
 .player-2 .canvas-pergunta {
-	transform: rotate(270deg);
+	/*transform: rotate(270deg);*/
 }
 
 .canvas-pergunta.resultado-ok {
@@ -37,12 +37,12 @@ canvas {
 .canvas-resposta {
 	border: 2px solid black;
 	background-color: white;
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 	border-radius: 10px;
 }
 
 .player-2 .canvas-resposta {
-	transform: rotate(270deg);
+	/*transform: rotate(270deg);*/
 }
 
 .contagem-regressiva {
@@ -50,11 +50,11 @@ canvas {
 	color: black;
 	font-size: 200px;
 	text-align: center;
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 }
 
 .player-2 .contagem-regressiva {
-	transform: rotate(270deg);
+	/*transform: rotate(270deg);*/
 }
 
 .resultado {
@@ -62,7 +62,7 @@ canvas {
 	color: black;
 	font-size: 72px;
 	text-align: center;
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 	width: 310px;
 }
 
@@ -75,11 +75,11 @@ canvas {
 	color: black;
 	font-size: 72px;
 	text-align: center;
-	transform: rotate(90deg);
+	/*transform: rotate(90deg);*/
 }
 
 .player-2 .resultado-container {
-	transform: rotate(270deg);
+	/*transform: rotate(270deg);*/
 }
 
 body > div.button {

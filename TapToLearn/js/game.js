@@ -2,6 +2,7 @@ var Categoria = {
 	"MATEMATICA": "matematica",
 	"PORTUGUES": "portugues",
 	"INGLES": "ingles",
+	"INTERDISCIPLINAR": "interdisciplinar",
 }
 
 var Game = function() {
