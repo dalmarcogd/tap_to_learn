@@ -42,9 +42,9 @@ var Game = function() {
 
 	this.finalizado = function(index, _respostas) {
 		respostas[index - 1] = _respostas;
-		if (respostas.length > 1) {
+		//if (respostas.length > 1) {
 			calcularResultado();
-		}
+		//}
 
 		$(".restart").show();
 	};
