@@ -10,8 +10,7 @@ IMPORTANTE:
 No incio do semetre, nosso grupo pegou o tema TapToLearn, porem apos conversa com nossa equipe de pedagocia foi identificado que o jogo multi-toque nao era necessario.
 Pois ele no final acaba atrabalhando o desenvolvimento pessoal de cada crianca. Onde apos conversa foi alterado o titulo do projeto para "MasterLearn".
 
-O novo projeto/jogo se encontra dentro do seguinte caminho:
-" TapToLearn/New/MasterLearn/index.html "
+# O novo projeto/jogo se encontra dentro do seguinte caminho: " TapToLearn/New/MasterLearn/index.html "
 
 
 O que foi implementado ao longo do semestre:
