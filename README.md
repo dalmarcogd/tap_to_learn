@@ -17,6 +17,7 @@ O novo projeto/jogo se encontra dentro do seguinte caminho:
 O que foi implementado ao longo do semestre:
 
 1- Alterado o nome do jogo de TapToLearn para "MasterLearn";
+
 2- Alterado a logo do projeto tambem;
 3- Alterado o fundo da cor do sistema onde agora eh apresentado de maneira mais clara e simples;
 4- Retirado o duelo entre criancas. Onde agora o jogo se tornou individual;
