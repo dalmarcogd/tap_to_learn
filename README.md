@@ -41,4 +41,6 @@ O que foi implementado ao longo do semestre:
 
 12- Adicionado nova disciplina chamada "Interdisciplinar";
 
-13- Implementado novos metodos na disciplina de Interdisciplinar para que seja arastada as imagens dentro da perguta.
+13- Implementado novos metodos na disciplina de Interdisciplinar para que seja arastada as imagens dentro da perguta;
+
+14- Ajustada a descricao das palavras das fases e titulos.
