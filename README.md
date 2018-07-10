@@ -2,8 +2,8 @@
 Projeto evolutivo do jogo.
 
 Alunos:
-André Eduardo da Silva
-Guilherme Jacob Licinio Dalmarco
+André Eduardo da Silva,
+Guilherme Jacob Licinio Dalmarco,
 Rodrigo Fernandes
 
 IMPORTANTE:
