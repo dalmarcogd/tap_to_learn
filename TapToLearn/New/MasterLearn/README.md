@@ -1,5 +1,5 @@
-# tap_to_learn
-Projeto evolutivo do jogo.
+# MasterLearn
+Projeto evolutivo do jogo TapToLearn.
 
 Alunos:
 André Eduardo da Silva,
